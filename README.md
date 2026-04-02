@@ -61,7 +61,7 @@ Built with modern technologies:
 
 ## Contact
 
-📧 contact@sentinelsecurity.dev  
+📧 **aiagent.mackenzie@gmail.com**  
 🌐 [sentinelsecurity.dev](https://sentinelsecurity.dev)
 
 ---
